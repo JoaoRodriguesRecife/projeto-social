@@ -10,9 +10,9 @@ html,body{
     height: 100vh;
    
 }
-@media (max-width: 480px){
+@media (max-width: 320px){
     body{
-        
+
     }
 }
 main{
