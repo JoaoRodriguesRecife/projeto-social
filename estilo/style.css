@@ -52,9 +52,4 @@ section#redes img:hover{
     transform: translate(-3px,-3px);
     transition: transform .3s, border .3s;
 }
-footer{
-    background-color: rgb(137, 94, 57);
-    text-align: center;
-    padding: 5px;
-    font-weight: bold;
-}
+
