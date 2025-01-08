@@ -19,8 +19,7 @@ main{
     
 }
 section#celular{
-    max-width: 100%;
-    height: auto;
+   
     position: absolute;
     top: 50%;
     left: 50%;
