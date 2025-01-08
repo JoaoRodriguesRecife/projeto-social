@@ -20,21 +20,18 @@ main{
     background-size: cover;
     
 }
-@media (max-width: 320px) {
-    section#celular {
-      max-width: 100%;
-      height: auto;
-      position: absolute;
+
+
+section#celular{
+   
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50% , -50%);
     background: url('../imagens/frame-iphone.png');
     width: 311px;
     height: 627px;
-    }
-  }
-
-
+}
 iframe#tela{
 position: relative;
 top: 80px;
